@@ -7,6 +7,9 @@ Este projeto simula um sistema de monitoramento de um reservatório de água exe
 * **Python 3.x**
 * **Colorama** (Biblioteca para estilização e inserção de cores no terminal)
 
+## Execução do Programa
+<img src="https://github.com/josetorres37/controle-nivel-agua/blob/imagem/exemplo.png"
+
 ## 📋 Tabela de Níveis e Cores do Sistema
 
 | Nível do Reservatório | Situação | Cor Utilizada |
