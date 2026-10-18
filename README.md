@@ -7,7 +7,7 @@ Este projeto simula um sistema de monitoramento de um reservatório de água exe
 * **Python 3.x**
 * **Colorama** (Biblioteca para estilização e inserção de cores no terminal)
 
-## Exemplo
+## 🖼️ Exemplo
 ![Exemplo do Controle de Nível de Água](https://github.com/josetorres37/controle-nivel-agua/blob/imagem/exemplo.png)
 
 ## 📋 Tabela de Níveis e Cores do Sistema
